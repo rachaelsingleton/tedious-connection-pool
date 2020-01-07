@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "tedious": "https://github.com/rachaelsingleton/tedious.git"
+    "tedious": "https://github.com/rachaelsingleton/tedious/tarball/0e40d0f"
   },
   "devDependencies": {
     "mocha": "^3.0.2",
