@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "tedious": "^1.14.0"
+    "tedious": "https://github.com/rachaelsingleton/tedious/archive/master.zip"
   },
   "devDependencies": {
     "mocha": "^3.0.2",
